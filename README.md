@@ -1,10 +1,10 @@
 This is the code for CDL (collaborative deep learning). It consists of two
 parts: a matlab component and a C++ component.
 
-To run this code you need to have:
-0. Download the mult_nor.mat file from wanghao.in/code/cdl-release.rar (in cdl-release/mult_nor.mat)
-1. matlab with GPU support
-2. GSL library (see www.gnu.org/software/gsl/)
+To run this code you need to make sure:
+0. you have the mult_nor.mat file located in cdl-release/example (can be downloaded from wanghao.in/code/cdl-release.rar)
+1. you have matlab with GPU support
+2. you have installed the GSL library (see www.gnu.org/software/gsl/)
 
 After installing GSL, please remember to add the path of the dynamic library
 (the directory with files like libgsl.so.0.10.0) to LD_LIBRARY_PATH in your
