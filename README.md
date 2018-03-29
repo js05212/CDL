@@ -20,3 +20,25 @@ you may have to re-compiled the C++ component which is in the folder
 To quickly run the program you can directly call the cdl_main.m.
 
 To quickly know what CDL is doing click on collaborative-dl.ipynb (demo in this notenook uses the MXNet-version code, not this matlab/C++ version).
+
+MXNet version for simplified CDL: https://github.com/js05212/MXNet-for-CDL.
+
+Data: https://www.wanghao.in/data/ctrsr_datasets.rar.
+
+Slides: http://wanghao.in/slides/CDL_slides.pdf and http://wanghao.in/slides/CDL_slides_long.pdf.
+
+#### Reference:
+[Collaborative Deep Learning for Recommender Systems](http://wanghao.in/paper/KDD15_CDL.pdf)
+```
+@inproceedings{DBLP:conf/kdd/WangWY15,
+  author    = {Hao Wang and
+               Naiyan Wang and
+               Dit{-}Yan Yeung},
+  title     = {Collaborative Deep Learning for Recommender Systems},
+  booktitle = {SIGKDD},
+  pages     = {1235--1244},
+  year      = {2015}
+}
+
+```
+<br>
