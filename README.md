@@ -2,7 +2,8 @@ This is the code for CDL (collaborative deep learning). It consists of two
 parts: a matlab component and a C++ component.
 
 To run this code you need to make sure:
-0. you have the mult_nor.mat file located in cdl-release/example (can be downloaded from wanghao.in/code/cdl-release.rar)
+
+0. you have the mult_nor.mat file located in cdl-release/example (can be downloaded from www.wanghao.in/code/cdl-release.rar)
 1. you have matlab with GPU support
 2. you have installed the GSL library (see www.gnu.org/software/gsl/)
 
@@ -28,8 +29,11 @@ Data: https://www.wanghao.in/data/ctrsr_datasets.rar.
 Slides: http://wanghao.in/slides/CDL_slides.pdf and http://wanghao.in/slides/CDL_slides_long.pdf.
 
 Other implementations (third-party):
+
 [Tensorflow code](https://github.com/gtshs2/Collaborative_Deep_Learning) by [gtshs2](https://github.com/gtshs2).
+
 [Keras code](https://github.com/zoujun123/Keras-CDL) by [zoujun123](https://github.com/zoujun123).
+
 [Python code](https://github.com/xiaoouzhang/Collaborative-Deep-Learning-for-Recommender-Systems) by [xiaoouzhang](https://github.com/xiaoouzhang).
 
 #### Reference:
