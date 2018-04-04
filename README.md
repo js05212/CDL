@@ -27,6 +27,11 @@ Data: https://www.wanghao.in/data/ctrsr_datasets.rar.
 
 Slides: http://wanghao.in/slides/CDL_slides.pdf and http://wanghao.in/slides/CDL_slides_long.pdf.
 
+Other implementations (third-party):
+[Tensorflow code](https://github.com/gtshs2/Collaborative_Deep_Learning) by [gtshs2](https://github.com/gtshs2).
+[Keras code](https://github.com/zoujun123/Keras-CDL) by [zoujun123](https://github.com/zoujun123).
+[Python code](https://github.com/xiaoouzhang/Collaborative-Deep-Learning-for-Recommender-Systems) by [xiaoouzhang](https://github.com/xiaoouzhang).
+
 #### Reference:
 [Collaborative Deep Learning for Recommender Systems](http://wanghao.in/paper/KDD15_CDL.pdf)
 ```
