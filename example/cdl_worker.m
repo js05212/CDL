@@ -252,7 +252,7 @@ fclose(my.fid);
 
 fprintf(1, 'Training CDL\n');
 tic;
-S = cdl (S, X, X_valid, X_ori, 0.1,my,perm_idx);
+S = cdl (S, X, X_valid, X_ori, 0.1,my,perm_idx); %%% Above here is all about initialize the network. Training appear here and only once!
 
 my.fid = fopen(sprintf('%s.log',my.save),'a');
 fprintf(my.fid, 'Training is done after %f seconds\n', toc);
