@@ -1,4 +1,4 @@
-This is the code for CDL (collaborative deep learning). It consists of two
+This is the official code for CDL ([collaborative deep learning](http://wanghao.in/paper/KDD15_CDL.pdf)). More details on models are results can be found in this [blog post](http://wanghao.in/CDL.htm). It consists of two
 parts: a matlab component and a C++ component.
 
 To run this code you need to make sure:
